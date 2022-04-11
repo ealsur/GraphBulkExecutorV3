@@ -1,3 +1,5 @@
+> This repository has been archived and the content promoted as an official Azure Sample: https://github.com/Azure-Samples/azure-cosmos-graph-bulk-executor/tree/main/dotnet
+
 # GraphBulkExecutorV3
 
 This project is a sample of how the [Cosmos DB V3 SQL SDK](https://github.com/Azure/azure-cosmos-dotnet-v3) can be used to process Gremlin/Graph data leveraging the [Bulk mode](https://docs.microsoft.com/azure/cosmos-db/sql/tutorial-sql-api-dotnet-bulk-import).
